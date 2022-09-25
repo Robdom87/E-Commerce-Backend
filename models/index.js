@@ -23,7 +23,7 @@ Product.belongsToMany(Tag, {
     unique: false
   },
   // Define an alias for when data is retrieved
-  as: 'P2T'
+  as: 'Tags'
 });
 
 
@@ -35,7 +35,7 @@ Tag.belongsToMany(Product, {
     unique: false
   },
   // Define an alias for when data is retrieved
-  as: 'T2P'
+  as: 'Products'
 });
 
 module.exports = {
