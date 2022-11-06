@@ -2,7 +2,7 @@
 
 ## Description
 
-e-commerce_routing creates the back end routing with which tp create, view, update, and delete products, catergories, and tags (staples of e-commerce).
+e-commerce_routing creates the back end routing with which to create, view, update, and delete products, catergories, and tags (staples of e-commerce).
 
 ## Table of Contents
 
