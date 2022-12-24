@@ -1,8 +1,8 @@
-# e-commerce_routing
+# E-Commerce-Backend
 
 ## Description
 
-e-commerce_routing creates the back end routing with which to create, view, update, and delete products, catergories, and tags (staples of e-commerce).
+E-Commerce-Backend creates the back end routing with which to create, view, update, and delete products, catergories, and tags (staples of e-commerce).
 
 ## Table of Contents
 
@@ -113,7 +113,7 @@ https://drive.google.com/file/d/1Aj0TVXyV4vsB6gI8NZy9QwJ84Gl0uUKU/view
 
 MIT License
 
-Copyright (c) [2022] [e-commerce_routing]
+Copyright (c) [2022]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
