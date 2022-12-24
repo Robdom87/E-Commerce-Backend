@@ -107,7 +107,7 @@ DELETE Request: https://example.com/api/tag/:id
 
 ![screenshot](assets/ecommerce.png)
 
-https://drive.google.com/file/d/1Aj0TVXyV4vsB6gI8NZy9QwJ84Gl0uUKU/view
+[Walk-Thru Video](https://drive.google.com/file/d/1Aj0TVXyV4vsB6gI8NZy9QwJ84Gl0uUKU/view)
 
 ## License
 
